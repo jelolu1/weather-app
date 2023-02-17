@@ -1,0 +1,23 @@
+.list {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 20px;
+}
+
+.list-item {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 90vw;
+	max-width: 600px;
+	padding: 20px;
+	border-radius: 10px;
+	gap: 20px;
+	background-color: #0c151c;
+}
+
+.list-item h2,
+.list-item h3 {
+	margin: 0;
+}

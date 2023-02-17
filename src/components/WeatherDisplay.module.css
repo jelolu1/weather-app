@@ -1,0 +1,10 @@
+.days-container {
+	width: 100%;
+	display: block;
+	justify-content: center;
+	align-items: center;
+}
+
+.week-day {
+	text-align: center;
+}

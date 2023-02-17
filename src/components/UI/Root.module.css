@@ -1,0 +1,25 @@
+.container {
+	width: 100vw;
+	height: 100vh;
+}
+
+.navigation {
+	position: absolute;
+	font-size: 18px;
+}
+
+.navigation ul {
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	list-style-type: none;
+}
+
+.main-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: auto;
+	height: 100%;
+}
